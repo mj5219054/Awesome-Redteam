@@ -76,6 +76,11 @@
     - [如何在Windows上使用alias](#如何在windows上使用alias)
     - [如何使用浏览器快速查看markdown文档](#如何使用浏览器快速查看markdown文档)
 
+# 红队培训人才
+
+* ![20221224133734](https://user-images.githubusercontent.com/79394963/209423063-e08b1719-b136-43c9-a290-9df5adf670f7.jpg)
+
+
 
 ## 漏洞知识库
 
